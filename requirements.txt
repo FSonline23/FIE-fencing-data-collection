@@ -1,0 +1,7 @@
+pandas
+openpyxl
+requests
+datetime
+argparse
+shutil
+numpy

@@ -1,0 +1,6 @@
+{
+    "apiEndPoint_searchAthlete": "https://fie.org/athletes",
+    "apiEndPoint_getAthletesByCountry": "https://fie.org/athletes/search",
+    "apiEndPoint_getResultsByCompetitionID": "https://fie.org/competition/variation/results/search",
+    "apiEndPoint_getCompetitions": "https://fie.org/competitions/search"
+}
